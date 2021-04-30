@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChargeLimiter</string>
+    <string name="espurl">TextView</string>
+    <string name="mytextview">Hello World</string>
+</resources>
